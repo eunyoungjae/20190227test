@@ -2,3 +2,4 @@ int a=10;
 function aaa(){}
 function bbb(){}
 function ccc(int number){}
+function ccc(double number){}
